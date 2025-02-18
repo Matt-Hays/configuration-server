@@ -17,7 +17,6 @@ The **Spring Cloud Configuration Server** provides centralized external configur
 - [Refreshing Configurations](#refreshing-configurations)
 - [Logging and Monitoring](#logging-and-monitoring)
 - [Error Handling](#error-handling)
-- [License](#license)
 
 ---
 
